@@ -1,0 +1,13 @@
+Forehand preparation timing - all clips
+========================================
+
+alcaraz_wu_18: 1 rated of 5 swings, mean prep 0.20s, green 0 / amber 0 / red 1
+alcaraz_wu_35: 3 swings, none rated
+djokovic_2012_usopen: 2 rated of 8 swings, mean prep 0.29s, green 0 / amber 1 / red 1
+pegula_fernandez_02: 1 swings, none rated
+sharapova_amelia_island: 1 rated of 3 swings, mean prep 0.55s, green 1 / amber 0 / red 0
+
+OVERALL: 4 rated swings, mean prep 0.33s, median 0.31s, mean max turn 91 deg
+  green    1  (25%)
+  amber    1  (25%)
+  red      2  (50%)

@@ -1,0 +1,21 @@
+clip,swing,stroke,contact_frame,contact_time_s,contact_speed_m_per_s,max_turn_frame,max_turn_time_s,max_turn_deg,hip_turn_at_max_deg,shoulder_hip_separation_deg,prep_time_s,rating,flags
+alcaraz_wu_18,1,backhand,39,0.65,3.71,26,0.433,66.9,85.8,-18.9,0.217,,clip starts inside the 1.5 s window
+alcaraz_wu_18,2,backhand,111,1.85,3.83,26,0.433,66.9,85.8,-18.9,1.417,,
+alcaraz_wu_18,3,backhand,282,4.7,5.92,233,3.883,71.5,59.7,11.8,0.817,,
+alcaraz_wu_18,4,forehand,425,7.083,9.29,413,6.883,75.5,29.2,46.3,0.2,red,
+alcaraz_wu_18,5,backhand,571,9.517,7.89,481,8.017,79.1,66.7,12.4,1.5,,turn still rising at window start (prep may be longer)
+alcaraz_wu_35,1,backhand,890,14.833,4.08,865,14.417,79.0,62.7,16.4,0.417,,clip starts inside the 1.5 s window; max turn may be before the clip / tracking starts - not rated
+alcaraz_wu_35,2,backhand,1015,16.917,8.16,938,15.633,50.5,16.5,34.0,1.283,,
+alcaraz_wu_35,3,backhand,1164,19.4,3.99,1099,18.317,80.6,52.0,28.6,1.083,,
+djokovic_2012_usopen,1,backhand,51,2.127,3.73,36,1.501,78.7,61.9,16.9,0.626,,
+djokovic_2012_usopen,2,backhand,121,5.047,4.34,96,4.004,75.7,73.9,1.7,1.043,,
+djokovic_2012_usopen,3,forehand,178,7.424,7.56,168,7.007,109.5,81.6,-11.1,0.417,amber,coiled past side-on: max turn taken at the foreshortening dip
+djokovic_2012_usopen,4,backhand,236,9.843,4.41,225,9.384,70.0,57.7,12.3,0.459,,
+djokovic_2012_usopen,5,backhand,306,12.763,5.43,296,12.346,62.7,54.8,7.9,0.417,,
+djokovic_2012_usopen,6,backhand,339,14.139,3.2,305,12.721,51.9,52.3,-0.4,1.418,,
+djokovic_2012_usopen,7,forehand,367,15.307,16.58,363,15.14,90.0,61.1,28.9,0.167,red,
+djokovic_2012_usopen,8,backhand,427,17.809,6.61,417,17.392,63.6,58.9,4.7,0.417,,
+pegula_fernandez_02,1,backhand,557,9.283,4.3,512,8.533,56.1,59.2,-3.1,0.75,,
+sharapova_amelia_island,1,forehand,242,8.345,5.78,226,7.793,9.9,7.9,2.0,0.552,,"small turn (<20 deg) - probably not a groundstroke, not rated"
+sharapova_amelia_island,2,backhand,406,14.0,6.37,397,13.69,90.0,81.4,8.6,0.31,,
+sharapova_amelia_island,3,forehand,478,16.483,4.5,462,15.931,90.0,90.0,0.0,0.552,green,

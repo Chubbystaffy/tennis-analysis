@@ -1,0 +1,13 @@
+# Python 3.11, 3.12 or 3.13 (Sports2D needs >= 3.11)
+# Sports2D pinned to the version whose CLI options analyse.py was built and tested against.
+sports2d==0.8.34
+pose2sim==0.10.49
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.8
+opencv-python>=4.9
+# Bundles an ffmpeg binary with H.264, so the annotated videos play in QuickTime.
+imageio-ffmpeg>=0.5
+# tests
+pytest>=8

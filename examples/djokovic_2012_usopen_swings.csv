@@ -1,0 +1,9 @@
+clip,swing,stroke,contact_frame,contact_time_s,contact_speed_m_per_s,max_turn_frame,max_turn_time_s,max_turn_deg,hip_turn_at_max_deg,shoulder_hip_separation_deg,prep_time_s,rating,flags
+djokovic_2012_usopen,1,backhand,51,2.127,3.73,36,1.501,78.7,61.9,16.9,0.626,,
+djokovic_2012_usopen,2,backhand,121,5.047,4.34,96,4.004,75.7,73.9,1.7,1.043,,
+djokovic_2012_usopen,3,forehand,178,7.424,7.56,168,7.007,109.5,81.6,-11.1,0.417,amber,coiled past side-on: max turn taken at the foreshortening dip
+djokovic_2012_usopen,4,backhand,236,9.843,4.41,225,9.384,70.0,57.7,12.3,0.459,,
+djokovic_2012_usopen,5,backhand,306,12.763,5.43,296,12.346,62.7,54.8,7.9,0.417,,
+djokovic_2012_usopen,6,backhand,339,14.139,3.2,305,12.721,51.9,52.3,-0.4,1.418,,
+djokovic_2012_usopen,7,forehand,367,15.307,16.58,363,15.14,90.0,61.1,28.9,0.167,red,
+djokovic_2012_usopen,8,backhand,427,17.809,6.61,417,17.392,63.6,58.9,4.7,0.417,,

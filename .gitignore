@@ -1,0 +1,15 @@
+# generated output (videos are large) - examples/ holds a committed sample
+results/
+# your own footage and downloaded example clips
+clips/*
+!clips/README.md
+example_clips/
+*.mov
+*.MOV
+*.mp4
+*.webm
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

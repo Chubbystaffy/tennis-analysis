@@ -1,0 +1,14 @@
+Clip: djokovic_2012_usopen
+Frame rate: 24.0 fps in file, 24.0 fps real time (SLOWMO_FACTOR=1)
+Tracked: frames 0-468, net to the right of the image, contact from right wrist speed (relative to hips)
+
+Swing  1 @   2.13s  backhand       prep 0.63s  max turn  79 deg
+Swing  2 @   5.05s  backhand       prep 1.04s  max turn  76 deg
+Swing  3 @   7.42s  forehand       prep 0.42s  max turn 110 deg  -> AMBER   [coiled past side-on: max turn taken at the foreshortening dip]
+Swing  4 @   9.84s  backhand       prep 0.46s  max turn  70 deg
+Swing  5 @  12.76s  backhand       prep 0.42s  max turn  63 deg
+Swing  6 @  14.14s  backhand       prep 1.42s  max turn  52 deg
+Swing  7 @  15.31s  forehand       prep 0.17s  max turn  90 deg  -> RED
+Swing  8 @  17.81s  backhand       prep 0.42s  max turn  64 deg
+
+Rated swings (forehand): 2  |  mean prep 0.29s (min 0.17, max 0.42)  |  green 0, amber 1, red 1
